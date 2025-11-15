@@ -1,0 +1,7 @@
+Polyp Area: 49180 px
+Approx Diameter: 281 px
+Irregularity: 1.563
+Model Confidence: 0.096
+Risk Indicator: High (not diagnostic)
+
+*This is NOT a medical diagnosis*

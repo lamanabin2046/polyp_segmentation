@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+env/
+*.env
+
+# Dataset
+data/
+!data/README.md
+
+# Trained weights
+*.pth
+*.pt
+
+# Outputs
+outputs/
+!outputs/keep.txt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
