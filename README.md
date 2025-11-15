@@ -77,8 +77,8 @@ Upload an image → Get:
 ![mask](<img width="562" height="550" alt="image" src="https://github.com/user-attachments/assets/b44465ce-5373-415e-b228-339f83ae63fc" />)
 
 ### Overlay
-![overlay](<img width="646" height="514" alt="image" src="https://github.com/user-attachments/assets/005f9dd9-6172-4227-b5af-6dc1370801c3" />
-)
+![Uploading image.png…]()
+
 
 ### GradCAM Heatmap
 ![gradcam](assets/gradcam_example.png)
