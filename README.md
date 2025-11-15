@@ -74,10 +74,11 @@ Upload an image → Get:
 # 🧪 **Sample Outputs**
 
 ### Segmentation Mask
-![mask](assets/mask_example.png)
+![mask](<img width="562" height="550" alt="image" src="https://github.com/user-attachments/assets/b44465ce-5373-415e-b228-339f83ae63fc" />)
 
 ### Overlay
-![overlay](assets/overlay_example.png)
+![overlay](<img width="646" height="514" alt="image" src="https://github.com/user-attachments/assets/005f9dd9-6172-4227-b5af-6dc1370801c3" />
+)
 
 ### GradCAM Heatmap
 ![gradcam](assets/gradcam_example.png)
